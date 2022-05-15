@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm İzzet Başlı</h1>
-<h3 align="center">A passionate Computer Vision Research Engineer at Visiosoft</h3>
+<h3 align="center">A passionate Computer Vision Research Engineer</h3>
 
 - 🌱 I’m currently learning **EEG, EMG processing**
 
