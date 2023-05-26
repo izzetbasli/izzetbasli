@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izzetbasli" alt="izzetbasli" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="center">A passionate Computer Vision Research Engineer</h3>
-<h3 align="center">I am currently working at Mapilio as Computer Vision Research Engineer.</h3>
+<h3 align="center">I am currently working at Karsan as Autonomous Driving Software Engineer.</h3>
 
 
 - 🌱 I’m currently learning **Sensor Fusion**
